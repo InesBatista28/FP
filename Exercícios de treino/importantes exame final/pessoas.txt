@@ -1,0 +1,5 @@
+João,25,Lisboa,Ana,Pedro
+Ana,28,Porto,João,Maria,Pedro,Mariana
+Pedro,30,Lisboa,João,Maria
+Maria,22,Coimbra,Ana,Pedro,Inês
+Carlos,35,Braga
