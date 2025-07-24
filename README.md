@@ -1,8 +1,3 @@
-# FP
-
-
-Cadeira de Fundamentos da Programação
+# FP 
+Fundamentos de Programação  
 Inês Batista, 124877
-
----
-
